@@ -14,16 +14,15 @@ Our project will be done using a sequence of save and commits and branch actions
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+<!--Put the first five lines of a poem by Lewis Carrol in this sect!--> 
 
-’Twas brillig, and the slithy toves    
-      Did gyre and gimble in the wabe:     
+’Twas brillig, and the slithy toves  
+      Did gyre and gimble in the wabe:   
 All mimsy were the borogoves,     
       And the mome raths outgrabe.     
     
 “Beware the Jabberwock, my son!     
-
-
+  
 
 
 
